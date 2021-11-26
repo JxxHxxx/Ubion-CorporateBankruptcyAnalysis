@@ -1,0 +1,1440 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">250</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-12-30 18:14</td>
+ 
+	
+	
+		<td>크로바하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">043590</td>
+	
+
+		<td>회생절차 종결신청</td>
+		<td>크로바하이텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">249</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-12-22 17:40</td>
+ 
+	
+	
+		<td>아리온</td>
+		<td style="mso-number-format:'@';text-align:center;">058220</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>아리온테크놀로지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">248</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-12-10 08:25</td>
+ 
+	
+	
+		<td>크로바하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">043590</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생계획 인가</td>
+		<td>크로바하이텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">247</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-12-09 19:11</td>
+ 
+	
+	
+		<td>크로바하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">043590</td>
+	
+
+		<td>회생계획 인가<font color='#49531'>[정]</font></td>
+		<td>크로바하이텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">246</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-12-07 18:41</td>
+ 
+	
+	
+		<td>아리온</td>
+		<td style="mso-number-format:'@';text-align:center;">058220</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>아리온테크놀로지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">245</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-11-30 16:10</td>
+ 
+	
+	
+		<td>에이치엔티</td>
+		<td style="mso-number-format:'@';text-align:center;">176440</td>
+	
+
+		<td>회생계획 인가</td>
+		<td>에이치엔티일렉트로닉스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">244</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-11-17 16:01</td>
+ 
+	
+	
+		<td>럭슬</td>
+		<td style="mso-number-format:'@';text-align:center;">033600</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시신청</td>
+		<td>럭슬</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">243</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-11-13 15:33</td>
+ 
+	
+	
+		<td>참존글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">158310</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>참존글로벌</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">242</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-29 18:01</td>
+ 
+	
+	
+		<td>에이치엔티</td>
+		<td style="mso-number-format:'@';text-align:center;">176440</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>에이치엔티일렉트로닉스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">241</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-29 17:58</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시신청</td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">240</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-29 16:45</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">239</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-28 18:24</td>
+ 
+	
+	
+		<td>매직마이크로</td>
+		<td style="mso-number-format:'@';text-align:center;">127160</td>
+	
+
+		<td>파산신청 기각</td>
+		<td>매직마이크로</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">238</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-28 18:23</td>
+ 
+	
+	
+		<td>매직마이크로</td>
+		<td style="mso-number-format:'@';text-align:center;">127160</td>
+	
+
+		<td>파산신청 기각</td>
+		<td>매직마이크로</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">237</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-22 17:47</td>
+ 
+	
+	
+		<td>매직마이크로</td>
+		<td style="mso-number-format:'@';text-align:center;">127160</td>
+	
+
+		<td>파산신청</td>
+		<td>매직마이크로</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">236</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-15 10:54</td>
+ 
+	
+	
+		<td>행남사</td>
+		<td style="mso-number-format:'@';text-align:center;">008800</td>
+	
+
+		<td>회생계획 인가</td>
+		<td>행남사</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">235</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-08 17:57</td>
+ 
+	
+	
+		<td>비츠로시스</td>
+		<td style="mso-number-format:'@';text-align:center;">054220</td>
+	
+
+		<td>회생절차 종결결정</td>
+		<td>비츠로시스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">234</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-06 16:56</td>
+ 
+	
+	
+		<td>아이엠텍</td>
+		<td style="mso-number-format:'@';text-align:center;">226350</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정</td>
+		<td>아이엠텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">233</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-10-05 18:19</td>
+ 
+	
+	
+		<td>에이치엔티</td>
+		<td style="mso-number-format:'@';text-align:center;">176440</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>에이치엔티일렉트로닉스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">232</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-09-25 17:16</td>
+ 
+	
+	
+		<td>매직마이크로</td>
+		<td style="mso-number-format:'@';text-align:center;">127160</td>
+	
+
+		<td>파산신청</td>
+		<td>매직마이크로</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">231</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-09-24 16:11</td>
+ 
+	
+	
+		<td>비츠로시스</td>
+		<td style="mso-number-format:'@';text-align:center;">054220</td>
+	
+
+		<td>회생절차 종결신청</td>
+		<td>비츠로시스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">230</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-09-02 15:40</td>
+ 
+	
+	
+		<td>럭슬</td>
+		<td style="mso-number-format:'@';text-align:center;">033600</td>
+	
+
+		<td>회생절차개시신청<font color='#49531'>[정]</font></td>
+		<td>럭슬</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">229</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-08-31 17:39</td>
+ 
+	
+	
+		<td>행남사</td>
+		<td style="mso-number-format:'@';text-align:center;">008800</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정</td>
+		<td>행남사</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">228</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-08-26 14:23</td>
+ 
+	
+	
+		<td>아이엠텍</td>
+		<td style="mso-number-format:'@';text-align:center;">226350</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>아이엠텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">227</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-08-21 15:48</td>
+ 
+	
+	
+		<td>휴온스블러썸</td>
+		<td style="mso-number-format:'@';text-align:center;">263920</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>휴온스블러썸</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">226</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-08-07 07:38</td>
+ 
+	
+	
+		<td>휴온스블러썸</td>
+		<td style="mso-number-format:'@';text-align:center;">263920</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>휴온스블러썸</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">225</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-08-06 17:45</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td>회생절차개시신청<font color='#49531'>[정]</font></td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">224</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-08-05 18:22</td>
+ 
+	
+	
+		<td>릭스솔루션</td>
+		<td style="mso-number-format:'@';text-align:center;">029480</td>
+	
+
+		<td>파산신청 기각</td>
+		<td>릭스솔루션</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">223</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-07-31 07:44</td>
+ 
+	
+	
+		<td>릭스솔루션</td>
+		<td style="mso-number-format:'@';text-align:center;">029480</td>
+	
+
+		<td>파산신청</td>
+		<td>릭스솔루션</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">222</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-07-30 15:42</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">221</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-07-28 14:54</td>
+ 
+	
+	
+		<td>이노와이즈</td>
+		<td style="mso-number-format:'@';text-align:center;">086250</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>화신테크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">220</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-07-15 17:52</td>
+ 
+	
+	
+		<td>참존글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">158310</td>
+	
+
+		<td>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>참존글로벌</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">219</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-06-30 17:11</td>
+ 
+	
+	
+		<td>아이엠텍</td>
+		<td style="mso-number-format:'@';text-align:center;">226350</td>
+	
+
+		<td>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>아이엠텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">218</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-06-17 18:49</td>
+ 
+	
+	
+		<td>바이오빌</td>
+		<td style="mso-number-format:'@';text-align:center;">065940</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>바이오빌</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">217</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-06-12 16:46</td>
+ 
+	
+	
+		<td>화진</td>
+		<td style="mso-number-format:'@';text-align:center;">134780</td>
+	
+
+		<td>회생절차 종결결정</td>
+		<td>에스엠화진</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">216</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-06-10 16:25</td>
+ 
+	
+	
+		<td>화진</td>
+		<td style="mso-number-format:'@';text-align:center;">134780</td>
+	
+
+		<td>회생절차 종결신청</td>
+		<td>에스엠화진</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">215</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-06-09 17:59</td>
+ 
+	
+	
+		<td>참존글로벌</td>
+		<td style="mso-number-format:'@';text-align:center;">158310</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>참존글로벌</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">214</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-06-09 16:26</td>
+ 
+	
+	
+		<td>아이엠텍</td>
+		<td style="mso-number-format:'@';text-align:center;">226350</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>아이엠텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">213</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-06-01 18:37</td>
+ 
+	
+	
+		<td>행남사</td>
+		<td style="mso-number-format:'@';text-align:center;">008800</td>
+	
+
+		<td>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>행남사</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">212</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-22 17:56</td>
+ 
+	
+	
+		<td>행남사</td>
+		<td style="mso-number-format:'@';text-align:center;">008800</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>행남사</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">211</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-18 13:20</td>
+ 
+	
+	
+		<td>비츠로시스</td>
+		<td style="mso-number-format:'@';text-align:center;">054220</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>비츠로시스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">210</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-15 20:42</td>
+ 
+	
+	
+		<td>비츠로시스</td>
+		<td style="mso-number-format:'@';text-align:center;">054220</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>비츠로시스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">209</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-13 15:48</td>
+ 
+	
+	
+		<td>화진</td>
+		<td style="mso-number-format:'@';text-align:center;">134780</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생계획 인가</td>
+		<td>에스엠화진</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">208</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-12 17:48</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td>파산신청</td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">207</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-11 16:50</td>
+ 
+	
+	
+		<td>EMW</td>
+		<td style="mso-number-format:'@';text-align:center;">079190</td>
+	
+
+		<td>회생절차 종결결정</td>
+		<td>이엠따블유</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">206</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-08 15:03</td>
+ 
+	
+	
+		<td>이노와이즈</td>
+		<td style="mso-number-format:'@';text-align:center;">086250</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>화신테크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">205</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-07 14:39</td>
+ 
+	
+	
+		<td>현진소재</td>
+		<td style="mso-number-format:'@';text-align:center;">053660</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>현진소재</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">204</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-06 15:20</td>
+ 
+	
+	
+		<td>EMW</td>
+		<td style="mso-number-format:'@';text-align:center;">079190</td>
+	
+
+		<td>회생절차 종결신청</td>
+		<td>이엠따블유</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">203</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-05-06 07:39</td>
+ 
+	
+	
+		<td>비츠로시스</td>
+		<td style="mso-number-format:'@';text-align:center;">054220</td>
+	
+
+		<td>회생계획 인가</td>
+		<td>비츠로시스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">202</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-04-29 12:00</td>
+ 
+	
+	
+		<td>화진</td>
+		<td style="mso-number-format:'@';text-align:center;">134780</td>
+	
+
+		<td>회생계획 인가<font color='#49531'>[정]</font></td>
+		<td>에스엠화진</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">201</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-04-27 16:27</td>
+ 
+	
+	
+		<td>EMW</td>
+		<td style="mso-number-format:'@';text-align:center;">079190</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생계획 인가</td>
+		<td>이엠따블유</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">200</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-04-24 18:07</td>
+ 
+	
+	
+		<td>바이오빌</td>
+		<td style="mso-number-format:'@';text-align:center;">065940</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시신청</td>
+		<td>바이오빌</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">199</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-04-24 18:03</td>
+ 
+	
+	
+		<td>EMW</td>
+		<td style="mso-number-format:'@';text-align:center;">079190</td>
+	
+
+		<td>회생계획 인가<font color='#49531'>[정]</font></td>
+		<td>이엠따블유</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">198</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-04-20 17:55</td>
+ 
+	
+	
+		<td>현진소재</td>
+		<td style="mso-number-format:'@';text-align:center;">053660</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>현진소재</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">197</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-04-20 11:34</td>
+ 
+	
+	
+		<td>바른전자</td>
+		<td style="mso-number-format:'@';text-align:center;">064520</td>
+	
+
+		<td>회생절차 종결결정</td>
+		<td>바른전자</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">196</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-04-10 17:35</td>
+ 
+	
+	
+		<td>바른전자</td>
+		<td style="mso-number-format:'@';text-align:center;">064520</td>
+	
+
+		<td>회생절차 종결신청</td>
+		<td>바른전자</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">195</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-04-07 17:26</td>
+ 
+	
+	
+		<td>바이오빌</td>
+		<td style="mso-number-format:'@';text-align:center;">065940</td>
+	
+
+		<td>회생절차개시신청<font color='#49531'>[정]</font></td>
+		<td>바이오빌</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">194</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-27 18:45</td>
+ 
+	
+	
+		<td>EMW</td>
+		<td style="mso-number-format:'@';text-align:center;">079190</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>이엠따블유</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">193</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-25 17:48</td>
+ 
+	
+	
+		<td>제낙스</td>
+		<td style="mso-number-format:'@';text-align:center;">065620</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>제낙스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">192</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-23 07:46</td>
+ 
+	
+	
+		<td>CSA 코스믹</td>
+		<td style="mso-number-format:'@';text-align:center;">083660</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>씨에스에이코스믹</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">191</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-20 20:09</td>
+ 
+	
+	
+		<td>크로바하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">043590</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>크로바하이텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">190</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-20 18:46</td>
+ 
+	
+	
+		<td>솔고바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">043100</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>솔고바이오메디칼</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">189</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-19 18:53</td>
+ 
+	
+	
+		<td>EMW</td>
+		<td style="mso-number-format:'@';text-align:center;">079190</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>이엠따블유</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">188</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-18 17:42</td>
+ 
+	
+	
+		<td>이엠네트웍스</td>
+		<td style="mso-number-format:'@';text-align:center;">087730</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>이엠네트웍스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">187</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-17 19:14</td>
+ 
+	
+	
+		<td>이녹스</td>
+		<td style="mso-number-format:'@';text-align:center;">088390</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생(자회사의 주요경영사항)</td>
+		<td>이녹스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">186</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-17 18:55</td>
+ 
+	
+	
+		<td>알톤스포츠</td>
+		<td style="mso-number-format:'@';text-align:center;">123750</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>알톤스포츠</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">185</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-13 16:17</td>
+ 
+	
+	
+		<td>제낙스</td>
+		<td style="mso-number-format:'@';text-align:center;">065620</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>제낙스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">184</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-12 18:07</td>
+ 
+	
+	
+		<td>크루셜텍</td>
+		<td style="mso-number-format:'@';text-align:center;">114120</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>크루셜텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">183</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-11 18:30</td>
+ 
+	
+	
+		<td>국순당</td>
+		<td style="mso-number-format:'@';text-align:center;">043650</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>국순당</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">182</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-11 17:49</td>
+ 
+	
+	
+		<td>이엠네트웍스</td>
+		<td style="mso-number-format:'@';text-align:center;">087730</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>이엠네트웍스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">181</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-11 16:59</td>
+ 
+	
+	
+		<td>바이오빌</td>
+		<td style="mso-number-format:'@';text-align:center;">065940</td>
+	
+
+		<td>회생절차 폐지결정</td>
+		<td>바이오빌</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">180</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-11 15:45</td>
+ 
+	
+	
+		<td>리드</td>
+		<td style="mso-number-format:'@';text-align:center;">197210</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>리드</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">179</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-10 17:48</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시신청</td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">178</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-09 17:46</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시신청<font color='#49531'>[정]</font></td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">177</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-09 15:02</td>
+ 
+	
+	
+		<td>스카이문스테크놀로지</td>
+		<td style="mso-number-format:'@';text-align:center;">033790</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>스카이문스테크놀로지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">176</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-02 17:42</td>
+ 
+	
+	
+		<td>크로바하이텍</td>
+		<td style="mso-number-format:'@';text-align:center;">043590</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>크로바하이텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">175</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-03-02 11:28</td>
+ 
+	
+	
+		<td>행남사</td>
+		<td style="mso-number-format:'@';text-align:center;">008800</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>행남사</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">174</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-28 19:05</td>
+ 
+	
+	
+		<td>행남사</td>
+		<td style="mso-number-format:'@';text-align:center;">008800</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>행남사</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">173</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-28 18:47</td>
+ 
+	
+	
+		<td>이엠앤아이</td>
+		<td style="mso-number-format:'@';text-align:center;">083470</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>이엠앤아이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">172</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-28 17:29</td>
+ 
+	
+	
+		<td>에스마크</td>
+		<td style="mso-number-format:'@';text-align:center;">030270</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>에스마크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">171</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-28 17:06</td>
+ 
+	
+	
+		<td>현진소재</td>
+		<td style="mso-number-format:'@';text-align:center;">053660</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>현진소재</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">170</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-27 18:26</td>
+ 
+	
+	
+		<td>코썬바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">204990</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>코썬바이오</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">169</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-27 17:10</td>
+ 
+	
+	
+		<td>리드</td>
+		<td style="mso-number-format:'@';text-align:center;">197210</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>리드</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">168</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-27 16:17</td>
+ 
+	
+	
+		<td>크루셜텍</td>
+		<td style="mso-number-format:'@';text-align:center;">114120</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>크루셜텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">167</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-26 20:13</td>
+ 
+	
+	
+		<td>리드</td>
+		<td style="mso-number-format:'@';text-align:center;">197210</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>리드</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">166</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-26 18:15</td>
+ 
+	
+	
+		<td>리드</td>
+		<td style="mso-number-format:'@';text-align:center;">197210</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>리드</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">165</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-26 17:39</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시신청<font color='#49531'>[정]</font></td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">164</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-24 17:47</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td>회생절차개시신청<font color='#49531'>[정]</font></td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">163</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-21 18:21</td>
+ 
+	
+	
+		<td>이엘케이</td>
+		<td style="mso-number-format:'@';text-align:center;">094190</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>이엘케이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">162</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-17 17:27</td>
+ 
+	
+	
+		<td>국순당</td>
+		<td style="mso-number-format:'@';text-align:center;">043650</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>국순당</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">161</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-17 15:08</td>
+ 
+	
+	
+		<td>한프</td>
+		<td style="mso-number-format:'@';text-align:center;">066110</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>한프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">160</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-14 17:18</td>
+ 
+	
+	
+		<td>에스마크</td>
+		<td style="mso-number-format:'@';text-align:center;">030270</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>에스마크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">159</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-14 16:55</td>
+ 
+	
+	
+		<td>솔고바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">043100</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>솔고바이오메디칼</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">158</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-13 16:57</td>
+ 
+	
+	
+		<td>CSA 코스믹</td>
+		<td style="mso-number-format:'@';text-align:center;">083660</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>씨에스에이코스믹</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">157</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-13 15:59</td>
+ 
+	
+	
+		<td>에스디시스템</td>
+		<td style="mso-number-format:'@';text-align:center;">121890</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>에스디시스템</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">156</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-13 07:39</td>
+ 
+	
+	
+		<td>이엠네트웍스</td>
+		<td style="mso-number-format:'@';text-align:center;">087730</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>이엠네트웍스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">155</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-12 16:21</td>
+ 
+	
+	
+		<td>에스앤더블류</td>
+		<td style="mso-number-format:'@';text-align:center;">103230</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>에스앤더블류</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">154</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-11 17:02</td>
+ 
+	
+	
+		<td>파나진</td>
+		<td style="mso-number-format:'@';text-align:center;">046210</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>파나진</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">153</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-10 16:32</td>
+ 
+	
+	
+		<td>국순당</td>
+		<td style="mso-number-format:'@';text-align:center;">043650</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생<font color='#49531'>[정]</font></td>
+		<td>국순당</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">152</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-10 16:24</td>
+ 
+	
+	
+		<td>유아이디</td>
+		<td style="mso-number-format:'@';text-align:center;">069330</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생</td>
+		<td>유아이디</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">151</td>
+		<td style="mso-number-format:'@';text-align:center;">2020-02-07 17:14</td>
+ 
+	
+	
+		<td>이녹스</td>
+		<td style="mso-number-format:'@';text-align:center;">088390</td>
+	
+
+		<td>내부결산시점 관리종목 지정 또는 상장폐지 사유 발생(자회사의 주요경영사항)<font color='#49531'>[정]</font></td>
+		<td>이녹스</td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>

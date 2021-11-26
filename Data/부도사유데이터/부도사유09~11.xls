@@ -1,0 +1,768 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">52</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-12-30 17:54</td>
+ 
+	
+	
+		<td>미리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">056710</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>미리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">51</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-12-28 14:41</td>
+ 
+	
+	
+		<td>미성포리테크</td>
+		<td style="mso-number-format:'@';text-align:center;">094700</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>미성포리테크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">50</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-12-22 17:37</td>
+ 
+	
+	
+		<td>CT&T</td>
+		<td style="mso-number-format:'@';text-align:center;">050470</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>씨티앤티</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">49</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-12-21 17:45</td>
+ 
+	
+	
+		<td>엘앤씨피</td>
+		<td style="mso-number-format:'@';text-align:center;">015390</td>
+	
+
+		<td>파산신청</td>
+		<td>엘앤씨피</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">48</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-12-20 16:46</td>
+ 
+	
+	
+		<td>엘앤씨피</td>
+		<td style="mso-number-format:'@';text-align:center;">015390</td>
+	
+
+		<td>파산신청</td>
+		<td>엘앤씨피</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">47</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-12-01 12:05</td>
+ 
+	
+	
+		<td>CT&T</td>
+		<td style="mso-number-format:'@';text-align:center;">050470</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>씨티앤티</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">46</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-11-30 17:40</td>
+ 
+	
+	
+		<td>미성포리테크</td>
+		<td style="mso-number-format:'@';text-align:center;">094700</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>미성포리테크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">45</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-11-28 17:55</td>
+ 
+	
+	
+		<td>동화기업</td>
+		<td style="mso-number-format:'@';text-align:center;">025900</td>
+	
+
+		<td>해산사유발생(자회사의 주요경영사항)</td>
+		<td>동화기업</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">44</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-11-28 15:51</td>
+ 
+	
+	
+		<td>동화기업</td>
+		<td style="mso-number-format:'@';text-align:center;">025900</td>
+	
+
+		<td>해산사유발생(자회사의 주요경영사항)</td>
+		<td>동화기업</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">43</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-11-18 15:03</td>
+ 
+	
+	
+		<td>블루젬디앤씨</td>
+		<td style="mso-number-format:'@';text-align:center;">053040</td>
+	
+
+		<td>파산신청</td>
+		<td>블루젬디앤씨</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">42</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-11-07 14:42</td>
+ 
+	
+	
+		<td>미리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">056710</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>미리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">41</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-11-04 17:53</td>
+ 
+	
+	
+		<td>미리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">056710</td>
+	
+
+		<td>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>미리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">40</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-10-24 15:33</td>
+ 
+	
+	
+		<td>미리넷</td>
+		<td style="mso-number-format:'@';text-align:center;">056710</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>미리넷</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">39</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-09-06 15:17</td>
+ 
+	
+	
+		<td>메디콕스</td>
+		<td style="mso-number-format:'@';text-align:center;">054180</td>
+	
+
+		<td>파산신청 기각</td>
+		<td>메디콕스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">38</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-08-24 13:40</td>
+ 
+	
+	
+		<td>에피밸리</td>
+		<td style="mso-number-format:'@';text-align:center;">068630</td>
+	
+
+		<td>회생계획 인가</td>
+		<td>에피밸리</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">37</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-08-24 07:18</td>
+ 
+	
+	
+		<td>메디콕스</td>
+		<td style="mso-number-format:'@';text-align:center;">054180</td>
+	
+
+		<td>파산신청</td>
+		<td>메디콕스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">36</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-07-19 18:06</td>
+ 
+	
+	
+		<td>이룸지엔지</td>
+		<td style="mso-number-format:'@';text-align:center;">050640</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>이룸지엔지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">35</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-05-31 07:12</td>
+ 
+	
+	
+		<td>오리엔트정공</td>
+		<td style="mso-number-format:'@';text-align:center;">065500</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>오리엔트정공</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">34</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-05-11 17:43</td>
+ 
+	
+	
+		<td>에피밸리</td>
+		<td style="mso-number-format:'@';text-align:center;">068630</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>에피밸리</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">33</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-04-27 18:03</td>
+ 
+	
+	
+		<td>씨모텍</td>
+		<td style="mso-number-format:'@';text-align:center;">081090</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>씨모텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">32</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-04-18 16:57</td>
+ 
+	
+	
+		<td>콜마파마</td>
+		<td style="mso-number-format:'@';text-align:center;">038710</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>콜마파마</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">31</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-04-13 17:04</td>
+ 
+	
+	
+		<td>에피밸리</td>
+		<td style="mso-number-format:'@';text-align:center;">068630</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>에피밸리</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">30</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-04-12 13:10</td>
+ 
+	
+	
+		<td>씨모텍</td>
+		<td style="mso-number-format:'@';text-align:center;">081090</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>씨모텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">29</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-04-05 12:14</td>
+ 
+	
+	
+		<td>제이콤</td>
+		<td style="mso-number-format:'@';text-align:center;">060750</td>
+	
+
+		<td>부도발생</td>
+		<td>제이콤</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">28</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-25 07:07</td>
+ 
+	
+	
+		<td>엠엔에프씨</td>
+		<td style="mso-number-format:'@';text-align:center;">048640</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>엠엔에프씨</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">27</td>
+		<td style="mso-number-format:'@';text-align:center;">2011-03-24 07:16</td>
+ 
+	
+	
+		<td>알티전자</td>
+		<td style="mso-number-format:'@';text-align:center;">032290</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>케이디지엠텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">26</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-11-15 15:24</td>
+ 
+	
+	
+		<td>케이에스피</td>
+		<td style="mso-number-format:'@';text-align:center;">073010</td>
+	
+
+		<td>회생절차 종결결정</td>
+		<td>케이에스피</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">25</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-11-02 17:55</td>
+ 
+	
+	
+		<td>케이에스피</td>
+		<td style="mso-number-format:'@';text-align:center;">073010</td>
+	
+
+		<td>회생절차 종결신청</td>
+		<td>케이에스피</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">24</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-10-26 17:49</td>
+ 
+	
+	
+		<td>하이드로젠파워</td>
+		<td style="mso-number-format:'@';text-align:center;">070080</td>
+	
+
+		<td>부도발생</td>
+		<td>삼보오토</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">23</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-10-26 17:49</td>
+ 
+	
+	
+		<td>하이드로젠파워</td>
+		<td style="mso-number-format:'@';text-align:center;">070080</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>삼보오토</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">22</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-08-24 17:40</td>
+ 
+	
+	
+		<td>네오세미테크</td>
+		<td style="mso-number-format:'@';text-align:center;">089240</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>네오세미테크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">21</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-06-01 07:07</td>
+ 
+	
+	
+		<td>샤인시스템</td>
+		<td style="mso-number-format:'@';text-align:center;">066300</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>샤인시스템</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">20</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-04-12 07:06</td>
+ 
+	
+	
+		<td>단성일렉트론</td>
+		<td style="mso-number-format:'@';text-align:center;">085990</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>영찬테크</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">19</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-04-07 07:09</td>
+ 
+	
+	
+		<td>쌈지</td>
+		<td style="mso-number-format:'@';text-align:center;">033260</td>
+	
+
+		<td>부도발생</td>
+		<td>쌈지</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">18</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-03-23 14:29</td>
+ 
+	
+	
+		<td>GK파워</td>
+		<td style="mso-number-format:'@';text-align:center;">054020</td>
+	
+
+		<td>부도발생</td>
+		<td>지케이파워</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">17</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-02-25 16:06</td>
+ 
+	
+	
+		<td>테이크시스템</td>
+		<td style="mso-number-format:'@';text-align:center;">076090</td>
+	
+
+		<td>파산신청</td>
+		<td>테이크시스템즈</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">16</td>
+		<td style="mso-number-format:'@';text-align:center;">2010-01-26 14:34</td>
+ 
+	
+	
+		<td>디보스</td>
+		<td style="mso-number-format:'@';text-align:center;">080140</td>
+	
+
+		<td>회생절차 폐지결정</td>
+		<td>디보스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">15</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-10-27 17:43</td>
+ 
+	
+	
+		<td>나리지*온</td>
+		<td style="mso-number-format:'@';text-align:center;">036850</td>
+	
+
+		<td>회생절차 종결결정</td>
+		<td>나리지*온</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">14</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-10-14 13:36</td>
+ 
+	
+	
+		<td>나리지*온</td>
+		<td style="mso-number-format:'@';text-align:center;">036850</td>
+	
+
+		<td>회생절차 종결신청</td>
+		<td>나리지*온</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">13</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-08-26 14:39</td>
+ 
+	
+	
+		<td>케너텍</td>
+		<td style="mso-number-format:'@';text-align:center;">062730</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정</td>
+		<td>케너텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">12</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-08-26 07:08</td>
+ 
+	
+	
+		<td>케너텍</td>
+		<td style="mso-number-format:'@';text-align:center;">062730</td>
+	
+
+		<td>회생절차 폐지결정</td>
+		<td>케너텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">11</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-08-11 17:24</td>
+ 
+	
+	
+		<td>디보스</td>
+		<td style="mso-number-format:'@';text-align:center;">080140</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정</td>
+		<td>디보스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">10</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-07-21 16:44</td>
+ 
+	
+	
+		<td>디보스</td>
+		<td style="mso-number-format:'@';text-align:center;">080140</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>디보스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">9</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-07-07 16:40</td>
+ 
+	
+	
+		<td>케너텍</td>
+		<td style="mso-number-format:'@';text-align:center;">062730</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>케너텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">8</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-06-17 15:12</td>
+ 
+	
+	
+		<td>디보스</td>
+		<td style="mso-number-format:'@';text-align:center;">080140</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>디보스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">7</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-04-21 15:07</td>
+ 
+	
+	
+		<td>디보스</td>
+		<td style="mso-number-format:'@';text-align:center;">080140</td>
+	
+
+		<td>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>디보스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">6</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-04-20 14:51</td>
+ 
+	
+	
+		<td>케너텍</td>
+		<td style="mso-number-format:'@';text-align:center;">062730</td>
+	
+
+		<td>회생절차개시결정<font color='#49531'>[정]</font></td>
+		<td>케너텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">5</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-04-07 17:55</td>
+ 
+	
+	
+		<td>디보스</td>
+		<td style="mso-number-format:'@';text-align:center;">080140</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>디보스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">4</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-03-19 16:01</td>
+ 
+	
+	
+		<td>포이보스</td>
+		<td style="mso-number-format:'@';text-align:center;">038810</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>포이보스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">3</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-03-11 17:49</td>
+ 
+	
+	
+		<td>케너텍</td>
+		<td style="mso-number-format:'@';text-align:center;">062730</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>케너텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">2</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-02-16 07:16</td>
+ 
+	
+	
+		<td>포이보스</td>
+		<td style="mso-number-format:'@';text-align:center;">038810</td>
+	
+
+		<td>회생절차개시신청</td>
+		<td>포이보스</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1</td>
+		<td style="mso-number-format:'@';text-align:center;">2009-01-19 18:14</td>
+ 
+	
+	
+		<td>디에스피</td>
+		<td style="mso-number-format:'@';text-align:center;">016040</td>
+	
+
+		<td>회생절차개시결정</td>
+		<td>디에스피이엔티</td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>

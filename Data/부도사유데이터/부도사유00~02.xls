@@ -1,0 +1,376 @@
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
+<head>
+<title>상세검색(EXCEL)</title>
+</head>
+<body>
+
+<table cellpadding="0" cellspacing="1" class="bbs_tb" border=1>
+	<col width="5%" />
+	<col width="5%" />
+	<col width="20%" />
+	<col width="10%" />
+	<col width="50%" />
+	<col width="10%" />
+	<tr>
+		<th bgcolor="#66FF99">번호</th>
+		<th bgcolor="#66FF99">시간</th>
+		<th bgcolor="#66FF99">회사명</th>
+		<th bgcolor="#66FF99">종목코드</th>
+		<th bgcolor="#66FF99">공시제목</th>
+		<th bgcolor="#66FF99">제출인</th>
+	</tr>
+	
+	
+	
+	
+		
+			
+	<tr>
+		<td style="text-align:center;">24</td>
+		<td style="mso-number-format:'@';text-align:center;">2002-10-31 18:27</td>
+ 
+	
+	
+		<td>정산애강</td>
+		<td style="mso-number-format:'@';text-align:center;">022220</td>
+	
+
+		<td>부도발생및은행거래정지</td>
+		<td>정산애강</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">23</td>
+		<td style="mso-number-format:'@';text-align:center;">2002-10-08 12:06</td>
+ 
+	
+	
+		<td>대호특수강</td>
+		<td style="mso-number-format:'@';text-align:center;">021040</td>
+	
+
+		<td>은행거래재개</td>
+		<td>대호특수강</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">22</td>
+		<td style="mso-number-format:'@';text-align:center;">2002-05-21 18:16</td>
+ 
+	
+	
+		<td>에이치엘비</td>
+		<td style="mso-number-format:'@';text-align:center;">028300</td>
+	
+
+		<td>회사정리절차종결결정</td>
+		<td>에이치엘비</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">21</td>
+		<td style="mso-number-format:'@';text-align:center;">2002-04-17 17:42</td>
+ 
+	
+	
+		<td>에이치엘비</td>
+		<td style="mso-number-format:'@';text-align:center;">028300</td>
+	
+
+		<td>회사정리절차종결신청</td>
+		<td>에이치엘비</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">20</td>
+		<td style="mso-number-format:'@';text-align:center;">2001-12-26 14:58</td>
+ 
+	
+	
+		<td>대호특수강</td>
+		<td style="mso-number-format:'@';text-align:center;">021040</td>
+	
+
+		<td>회사정리절차개시결정</td>
+		<td>대호특수강</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">19</td>
+		<td style="mso-number-format:'@';text-align:center;">2001-12-26 08:10</td>
+ 
+	
+	
+		<td>대주산업</td>
+		<td style="mso-number-format:'@';text-align:center;">003310</td>
+	
+
+		<td>화의채무변제완료보고서제출</td>
+		<td>대주산업</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">18</td>
+		<td style="mso-number-format:'@';text-align:center;">2001-11-30 19:10</td>
+ 
+	
+	
+		<td>대호특수강</td>
+		<td style="mso-number-format:'@';text-align:center;">021040</td>
+	
+
+		<td>회사재산보전처분결정</td>
+		<td>대호특수강</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">17</td>
+		<td style="mso-number-format:'@';text-align:center;">2001-11-26 16:38</td>
+ 
+	
+	
+		<td>세븐코스프</td>
+		<td style="mso-number-format:'@';text-align:center;">017160</td>
+	
+
+		<td>화의채무변제완료보고서제출</td>
+		<td>세븐코스프</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">16</td>
+		<td style="mso-number-format:'@';text-align:center;">2001-11-23 18:36</td>
+ 
+	
+	
+		<td>대호특수강</td>
+		<td style="mso-number-format:'@';text-align:center;">021040</td>
+	
+
+		<td>회사정리절차개시신청</td>
+		<td>대호특수강</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">15</td>
+		<td style="mso-number-format:'@';text-align:center;">2001-10-11 18:33</td>
+ 
+	
+	
+		<td>대호특수강</td>
+		<td style="mso-number-format:'@';text-align:center;">021040</td>
+	
+
+		<td><font color='#FF8040'>[정정]</font>부도발생및은행거래정지</td>
+		<td>대호특수강</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">14</td>
+		<td style="mso-number-format:'@';text-align:center;">2001-10-11 17:50</td>
+ 
+	
+	
+		<td>대호특수강</td>
+		<td style="mso-number-format:'@';text-align:center;">021040</td>
+	
+
+		<td>부도발생및은행거래정지<font color='#49531'>[정]</font></td>
+		<td>대호특수강</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">13</td>
+		<td style="mso-number-format:'@';text-align:center;">2001-02-22 18:34</td>
+ 
+	
+	
+		<td>엔케이바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">019260</td>
+	
+
+		<td>화의채무변제완료보고서제출</td>
+		<td>셀텍</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">12</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-12-20 16:17</td>
+ 
+	
+	
+		<td>ST&I</td>
+		<td style="mso-number-format:'@';text-align:center;">031800</td>
+	
+
+		<td>회사정리절차종결결정</td>
+		<td>에스티앤아이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">11</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-11-23 10:19</td>
+ 
+	
+	
+		<td>ST&I</td>
+		<td style="mso-number-format:'@';text-align:center;">031800</td>
+	
+
+		<td>회사정리절차종결신청</td>
+		<td>에스티앤아이</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">10</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-08-07 15:44</td>
+ 
+	
+	
+		<td>지노시스템</td>
+		<td style="mso-number-format:'@';text-align:center;">033850</td>
+	
+
+		<td>화의채무변제완료보고서제출</td>
+		<td>지노시스템</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">9</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-06-29 10:33</td>
+ 
+	
+	
+		<td>엠투엔</td>
+		<td style="mso-number-format:'@';text-align:center;">033310</td>
+	
+
+		<td>화의채무변제완료보고서제출</td>
+		<td>엠투엔</td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">8</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-03-31 00:00</td>
+ 
+	
+	
+		<td>아진산업</td>
+		<td style="mso-number-format:'@';text-align:center;">013310</td>
+	
+
+		<td>회사정리절차개시결정(아진산업(주))</td>
+		<td></td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">7</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-03-31 00:00</td>
+ 
+	
+	
+		<td>에이치엘비</td>
+		<td style="mso-number-format:'@';text-align:center;">028300</td>
+	
+
+		<td>은행거래재개(국제정공(주))</td>
+		<td></td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">6</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-03-28 00:00</td>
+ 
+	
+	
+		<td>ST&I</td>
+		<td style="mso-number-format:'@';text-align:center;">031800</td>
+	
+
+		<td>회사정리절차개시결정(씨티아이반도체(주) (1))</td>
+		<td></td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">5</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-03-28 00:00</td>
+ 
+	
+	
+		<td>ST&I</td>
+		<td style="mso-number-format:'@';text-align:center;">031800</td>
+	
+
+		<td>회사정리절차개시결정(씨티아이반도체(주) (2))</td>
+		<td></td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">4</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-03-23 00:00</td>
+ 
+	
+	
+		<td>엔케이바이오</td>
+		<td style="mso-number-format:'@';text-align:center;">019260</td>
+	
+
+		<td>은행거래재개((주)한올)</td>
+		<td></td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">3</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-02-09 00:00</td>
+ 
+	
+	
+		<td>에이치엘비</td>
+		<td style="mso-number-format:'@';text-align:center;">028300</td>
+	
+
+		<td>회사정리절차개시결정(국제정공(주) (1))</td>
+		<td></td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">2</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-02-09 00:00</td>
+ 
+	
+	
+		<td>에이치엘비</td>
+		<td style="mso-number-format:'@';text-align:center;">028300</td>
+	
+
+		<td>회사정리절차개시결정(국제정공(주) (2))</td>
+		<td></td>
+	</tr>
+			
+	<tr>
+		<td style="text-align:center;">1</td>
+		<td style="mso-number-format:'@';text-align:center;">2000-01-31 00:00</td>
+ 
+	
+	
+		<td>엠투엔</td>
+		<td style="mso-number-format:'@';text-align:center;">033310</td>
+	
+
+		<td>은행거래재개((주)우진산전)</td>
+		<td></td>
+	</tr>
+			
+		
+		
+	
+</table>
+
+</body>
+</html>
