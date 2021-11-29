@@ -1,4 +1,4 @@
-# **Feature Selection**
+# Feature Selection
 
 재무 데이터에 대한 Feature Selection 진행
 
