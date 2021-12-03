@@ -1,0 +1,1 @@
+전처리 순서 : prepro_bankruptcy.ipynb > Default_Definition.ipynb
