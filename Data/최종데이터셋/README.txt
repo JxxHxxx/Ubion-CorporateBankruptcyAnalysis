@@ -45,6 +45,10 @@ Finaldataset_ver5
 
 - 중복 key 제거, 폐지사유요약합본 컬럼 생성, 페지사유요약 컬럼 제거
 
+Finaldataset_ver5sp
+
+- 불필요한 컬럼 제거
+
 
 
 
