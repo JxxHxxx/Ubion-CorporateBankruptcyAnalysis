@@ -32,6 +32,7 @@ Finaldataset_ver2
 Finaldataset_ver3
 
 - 피인수합병 등으로 인한 거래소코드가 복수인 경우 처리 (기타법인코드 제거)
+- 폐지사유요약 결측치 처리
 
 
 
