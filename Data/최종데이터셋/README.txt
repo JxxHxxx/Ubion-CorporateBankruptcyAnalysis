@@ -51,6 +51,9 @@ Finaldataset_ver6
 
 수정 후 부도 회사 수 402개
 
+Finaldataset_ver7
+
+1. 신종채권, 영업조업중단 컬럼 추가변수
 
 
 
